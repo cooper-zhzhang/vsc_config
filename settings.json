@@ -1,4 +1,6 @@
 {
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Solarized Dark",
 	"color-highlight.hslWithNoFunctionLanguages": [
 		"go",
 		"cpp"
@@ -206,5 +208,10 @@
 				}
 			]
 		}
+	},
+	"explorer.confirmDragAndDrop": false,
+	"workbench.editorAssociations": {
+		"*.copilotmd": "vscode.markdown.preview.editor",
+		"*.pdf": "default"
 	}
 }
